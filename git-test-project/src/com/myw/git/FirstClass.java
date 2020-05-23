@@ -7,6 +7,7 @@ public class FirstClass {
         System.out.println("hello git project");
         System.out.println("hello git project");
         System.out.println("hello git project");
+        //加一行注释推送到远程
     }
     public  void  test(){
         int i =1;
